@@ -1,7 +1,7 @@
 # UASPemogramanIV
 
 #link jurnal
-![alt text](https://scholar.google.com/scholar?hl=id&as_sdt=0%2C5&q=kalkulator+berbasis+kotlin&btnG=#d=gs_qabs&t=1720412840565&u=%23p%3DLv6_Jn_g7WEJ?raw=true)
+(https://scholar.google.com/scholar?hl=id&as_sdt=0%2C5&q=kalkulator+berbasis+kotlin&btnG=#d=gs_qabs&t=1720412840565&u=%23p%3DLv6_Jn_g7WEJ)
 
 #fitur
 penjumlahan
