@@ -4,4 +4,4 @@
 penjumlahan
 
 
-![alt text]{?raw=true}https://github.com/nuriaulfah/UASPemogramanIV/blob/main/running.jpg
+![alt text]{https://github.com/nuriaulfah/UASPemogramanIV/blob/main/running.jpg?raw=true}
