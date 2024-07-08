@@ -2,7 +2,7 @@
 
 #link jurnal
 
-([https://sg.docworkspace.com/d/sIP7qmr4uofmttAY](https://jurnal.ulb.ac.id/index.php/JoSDIS/article/view/2802))
+(https://media.neliti.com/media/publications/495350-none-96c0e023.pdf)
 
 #fitur
 penjumlahan
